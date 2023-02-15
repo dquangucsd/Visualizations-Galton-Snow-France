@@ -1,4 +1,4 @@
-Plots of John Snow's map, Galton's parent to children heights, and France's population.
+# Visualizations
 
 https://dquangucsd.github.io/Visualizations-Galton-Snow-France/
 
